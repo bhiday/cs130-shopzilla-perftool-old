@@ -1,0 +1,19 @@
+// Spring Roo 1.1.4.RELEASE [rev f787ce7] log opened at 2011-05-21 15:02:10
+project --topLevelPackage com.shopzilla.perf --projectName cs130-shopzilla-perftool --java 6
+// Spring Roo 1.1.4.RELEASE [rev f787ce7] log opened at 2011-05-21 15:03:10
+reference guide
+help
+help interface
+hint
+hint interface
+interface --class PerformanceQuery
+help test 
+help test stub
+test stub
+test stub --class PerformanceQuery
+help test
+help test mock
+help test mock entity Performance
+test mock --entity PerformanceQuery
+quit
+// Spring Roo 1.1.4.RELEASE [rev f787ce7] log closed at 2011-05-21 15:14:57
